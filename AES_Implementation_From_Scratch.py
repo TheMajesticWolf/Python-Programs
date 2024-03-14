@@ -1,11 +1,6 @@
 import os
 import pprint
-import tkinter.filedialog as tfdg
-import ctypes
 
-
-
-ctypes.windll.shcore.SetProcessDpiAwareness(2)
 
 # By TheMajesticWolf 26/04/2023
 
